@@ -1,8 +1,3 @@
-# csc413-SecondGame
-
-## Student Name : Carlos Lopez
-## Student ID : 918559153
-
 ## Instructions: 
 ### to shoot more balls: Numerical 0
 ### Navigate(L/R): Left/Right arrow key
